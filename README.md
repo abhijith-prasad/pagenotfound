@@ -1,1 +1,1 @@
-Simple Custom Module for 404 Page
+# Magento 2 Module Simple Page Not Found 404
